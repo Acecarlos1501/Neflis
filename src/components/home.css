@@ -1,0 +1,35 @@
+.home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .home-content {
+    background-color: #ffffff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 0.25rem;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .home-title {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #000000;
+  }
+  
+  .home-button {
+    display: block;
+    background-color: #2e0153;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 0.25rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+  }
+  
+  .home-button:hover {
+    background-color: #1c015b;
+  }
+  
